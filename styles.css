@@ -23,7 +23,7 @@ body {
 
 .heart {
     color: red;
-    transition: transform 1.3s;
+    transition: transform 3.0s;
 }
 
 @keyframes flowUp {
